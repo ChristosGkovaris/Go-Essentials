@@ -1,6 +1,7 @@
 # Go Essentials
-Welcome to the "Go Essentials", this repository contains a collection of Go code examples that demonstrate various concepts related to concurrency, error handling, panics,
-invalid inputs, goroutines, and returning errors from empty inputs. These scripts will help you understand key Go programming techniques and best practices.
+Welcome to the "Go Essentials" repository, this repository contains a collection of Go code examples that demonstrate various concepts
+related to concurrency, error handling, panics, invalid inputs, goroutines, and returning errors from empty inputs.
+These scripts will help you understand key Go programming techniques and best practices.
 
 
 ## Code Overview
